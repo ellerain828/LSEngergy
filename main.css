@@ -1,0 +1,96 @@
+h1
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 49pt;
+    text-align: center;
+    color: darkorange;
+}
+
+header
+{
+    margin: 0;
+    width: 90%;
+    float:right ;
+    background-color: white;
+}
+nav
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14pt;
+    float:left;
+    width: 10%;
+    height:1080px;
+    background-color: #cbb4f8;
+    margin-top: 0pt;
+    text-align: left;
+}
+
+.logo
+{
+    width: 300px;
+    height: 300px;
+    padding: 15pt;
+
+}
+.li
+{
+    list-style-type: none;
+    text-align: left ;
+}
+h2
+{
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkorange;
+}
+.szoveg
+{
+    text-align: center;
+    font-size: 14pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body
+{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px ;
+    margin-bottom: 0px;
+
+}
+section
+{
+    background-color: #f9ecff;
+    float: right;
+    width: 90%;
+}
+.logohatter
+{
+    background-color:  #f9ecff;
+    float: right;
+    text-align: center;
+    width: 90%;
+}
+.szofelho
+{
+    width: 350px;
+    height: 350px;
+    padding: 15pt;
+}
+footer
+{
+    background-color: #3C096C;
+    color: white;
+    text-align: center;
+    clear: both;
+    padding: 10pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.szofelhohatter
+{
+    background-color:  white;
+    float: right;
+    text-align: center;
+    width: 90%;
+}
